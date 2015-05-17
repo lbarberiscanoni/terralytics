@@ -6,10 +6,13 @@ html
         meta(name="viewport", content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no")
         meta(name="HandheldFriendly", content="true")
         meta(name="robots", content="index, follow")
+        
+        //Stylesheets
+        link(rel="stylesheet", href="stylesheets/main.css")
+
+        //D3.js scripts
+        script(src="http://d3js.org/d3.v3.min.js", charset="utf-8")
 body
-    h1 Main Page
-    ul 
-        li
-            a(href="forced_layout.html") Forced Direction
-        li
-            a(href="forced_3d.html") Forced Direction 3D
+    h1 Forced Direction Curved
+
+script(src="scripts/force_direction_curved.js")
