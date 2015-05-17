@@ -1,20 +1,20 @@
 {
   "nodes":[
     {"name":"Algeria","group":1},
-    {"name":"Bahrain","group":1},
-    {"name":"Egypt","group":1},
-    {"name":"Iraq","group":1},
-    {"name":"Israel, West Bank, Gaza","group":1},
-    {"name":"Jordan","group":1},
-    {"name":"Kuwait","group":1},
-    {"name":"Lebanon","group":1},
-    {"name":"Morocco","group":1},
-    {"name":"Palestinian Territories","group":1},
-    {"name":"Qatar","group":1},
-    {"name":"Saudi Arabia","group":1},
-    {"name":"Tunisia","group":1},
-    {"name":"United Arab Emirates","group":1},
-    {"name":"Yemen","group":1}
+    {"name":"Bahrain","group":2},
+    {"name":"Egypt","group":3},
+    {"name":"Iraq","group":4},
+    {"name":"Israel, West Bank, Gaza","group":5},
+    {"name":"Jordan","group":6},
+    {"name":"Kuwait","group":7},
+    {"name":"Lebanon","group":8},
+    {"name":"Morocco","group":9},
+    {"name":"Palestinian Territories","group":10},
+    {"name":"Qatar","group":11},
+    {"name":"Saudi Arabia","group":12},
+    {"name":"Tunisia","group":13},
+    {"name":"United Arab Emirates","group":14},
+    {"name":"Yemen","group":15}
    
    ],
   "links":[
