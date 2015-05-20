@@ -12,10 +12,10 @@
 3. To define customizable properties, use capitalized variable names,
     and define them in Properties tab ---*/
     
-var WIDTH = config.width, HEIGHT = config.height;
+var WIDTH = 600, HEIGHT = 500;
 
-var COLOR = config.nodeColor;
-var LINK_COLOR = config.linkColor;
+var COLOR = "blue";
+var LINK_COLOR = "black";
 
 var scene = new THREE.Scene();
 
