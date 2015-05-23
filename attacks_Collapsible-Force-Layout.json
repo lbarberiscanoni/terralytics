@@ -24,7 +24,7 @@
    "attacks": [
     {
      "name": "country",
-     "attacks": [
+     "attacks": [ 
       {"name": "Algeria", "size": 1},
       {"name": "Bahrain", "size": 1},
       {"name": "Israel, West Bank, Gaza", "size": 3},
