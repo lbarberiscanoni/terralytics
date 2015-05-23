@@ -165,7 +165,7 @@ function selectableForceDirectedGraph() {
  
     }
  
-    d3.json("attacks_selectable-force-directed.json", function(error, graph) {
+    d3.json("../data/attacks/selectable.json", function(error, graph) {
         nodeGraph = graph;
  
         graph.links.forEach(function(d) {

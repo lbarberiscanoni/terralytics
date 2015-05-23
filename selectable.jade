@@ -1,6 +1,5 @@
-doctype type
+doctype html
 html
-    head
         // Meta tags for SEO and Responsiveness
         meta(charset="utf-8")
         meta(http-equiv="X-UA-Compatible", content="IE=edge")
@@ -9,11 +8,12 @@ html
         meta(name="robots", content="index, follow")
         
         //Stylesheets
-        link(rel="stylesheet", href="stylesheets/force_collapsible.css")
+        link(rel="stylesheet", href="stylesheets/direct.css")
 
         //D3.js scripts
         script(src="http://d3js.org/d3.v3.min.js", charset="utf-8")
 body
-    h1 Forced Direction Collapsible
+    h1 Forced Direction Selectable
+    #d3_selectable_force_directed_graph
 
-script(src="scripts/force_collapsible.js")
+script(src="scripts/selectable.js")

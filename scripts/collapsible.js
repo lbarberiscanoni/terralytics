@@ -13,7 +13,7 @@ var svg = d3.select("body").append("svg")
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");
 
-var JSON_FILENAME = "attacks_collapsible-force.json";
+var JSON_FILENAME = "../data/attacks/collapsible.json";
 
 d3.json(JSON_FILENAME, function(json) {
   root = json;

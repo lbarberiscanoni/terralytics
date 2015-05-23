@@ -12,7 +12,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("attacks_force-direct.json", function(error, graph) {
+d3.json("../data/attacks/direct.json", function(error, graph) {
   var nodes = graph.nodes.slice(),
       links = [],
       bilinks = [];
