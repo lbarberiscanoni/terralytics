@@ -13,7 +13,9 @@ var svg = d3.select("body").append("svg")
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");
 
-d3.json("attacks_Selectable-Force-Directed.json", function(json) {
+var JSON_FILENAME = "attacks_Collapsible-Force-Layout.json";
+
+d3.json(JSON_FILENAME, function(json) {
   root = json;
   update();
 });
@@ -21,6 +23,7 @@ d3.json("attacks_Selectable-Force-Directed.json", function(json) {
 function update() {
   var nodes = flatten(root),
       links = d3.layout.tree().links(nodes);
+  console.log(nodes)
 
   // Restart the force layout.
   force

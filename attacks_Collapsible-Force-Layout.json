@@ -1,13 +1,12 @@
-
 {
  "name": "terrorism",
- "attacks": [
+ "children": [
   {
    "name": "2002",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 2},
       {"name": "Israel, West Bank, Gaza", "size": 16},
       {"name": "Jordan", "size": 2},
@@ -21,10 +20,10 @@
   },
   {
    "name": "2003",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [ 
+     "children": [ 
       {"name": "Algeria", "size": 1},
       {"name": "Bahrain", "size": 1},
       {"name": "Israel, West Bank, Gaza", "size": 3},
@@ -36,10 +35,10 @@
   },
   {
    "name": "2004",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 2},
       {"name": "Egypt", "size": 1},
       {"name": "Iraq", "size": 12},
@@ -51,10 +50,10 @@
   },
   {
    "name": "2005",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 1},
       {"name": "Egypt", "size": 4},
       {"name": "Israel, West Bank, Gaza", "size": 8},
@@ -66,10 +65,10 @@
   },
   {
    "name": "2006",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 2},
       {"name": "Egypt", "size": 2},
       {"name": "Iraq", "size": 1},
@@ -84,10 +83,10 @@
   },
   {
    "name": "2007",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 6},
       {"name": "Israel, West Bank, Gaza", "size": 8},
       {"name": "Lebanon", "size": 3},
@@ -100,10 +99,10 @@
   },
   {
    "name": "2008",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 5},
       {"name": "Iraq", "size": 15},
       {"name": "Israel, West Bank, Gaza", "size": 12},
@@ -116,10 +115,10 @@
   },
   {
    "name": "2009",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 4},
       {"name": "Egypt", "size": 3},
       {"name": "Iraq", "size": 3},
@@ -132,10 +131,10 @@
   },
   {
    "name": "2010",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 3},
       {"name": "Iraq", "size": 11},
       {"name": "Israel, West Bank, Gaza", "size": 3},
@@ -149,10 +148,10 @@
   },
   {
    "name": "2011",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Algeria", "size": 5},
       {"name": "Bahrain", "size": 1},
       {"name": "Iraq", "size": 14},
@@ -166,10 +165,10 @@
   },
   {
    "name": "2012",
-   "attacks": [
+   "children": [
     {
      "name": "country",
-     "attacks": [
+     "children": [
       {"name": "Bahrain", "size": 6},
       {"name": "Iraq", "size": 9},
       {"name": "Lebanon", "size": 6},
