@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,MAAM,EAAE,KAAK;EACb,YAAY,EAAE,KAAK;EACnB,OAAO,EAAE,GAAG;;AAGd,IAAK;EACH,MAAM,EAAE,KAAK;EACb,YAAY,EAAE,KAAK;EACnB,cAAc,EAAE,GAAG",
+"sources": ["color-coded-neighbor-nodes.scss"],
+"names": [],
+"file": "color-coded-neighbor-nodes.css"
+}
