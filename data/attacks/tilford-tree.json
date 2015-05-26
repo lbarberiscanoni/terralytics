@@ -1,0 +1,182 @@
+{
+ "name": "terrorism",
+ "attacks": [
+  {
+   "name": "2002",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 2},
+      {"name": "Israel, West Bank, Gaza", "size": 16},
+      {"name": "Jordan", "size": 2},
+      {"name": "Kuwait", "size": 2},
+      {"name": "Lebanon", "size":2},
+      {"name": "Tunisia", "size":1},
+      {"name": "Yemen", "size":2}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2003",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 1},
+      {"name": "Bahrain", "size": 1},
+      {"name": "Israel, West Bank, Gaza", "size": 3},
+      {"name": "Morocco", "size": 1},
+      {"name": "Saudi Arabia", "size":2}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2004",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 2},
+      {"name": "Egypt", "size": 1},
+      {"name": "Iraq", "size": 12},
+      {"name": "Israel, West Bank, Gaza", "size": 8},
+      {"name": "Saudi Arabia", "size":2}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2005",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 1},
+      {"name": "Egypt", "size": 4},
+      {"name": "Israel, West Bank, Gaza", "size": 8},
+      {"name": "Jordan", "size": 2},
+      {"name": "Qatar", "size":1}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2006",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 2},
+      {"name": "Egypt", "size": 2},
+      {"name": "Iraq", "size": 1},
+      {"name": "Israel, West Bank, Gaza", "size": 3},
+      {"name": "Jordan", "size": 1},
+      {"name": "Lebanon", "size": 5},
+      {"name": "Saudi Arabia", "size": 1},
+      {"name": "Yemen", "size": 2}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2007",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 6},
+      {"name": "Israel, West Bank, Gaza", "size": 8},
+      {"name": "Lebanon", "size": 3},
+      {"name": "Morocco", "size": 4},
+      {"name": "Saudi Arabia", "size":2},
+      {"name": "Yemen", "size":1}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2008",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 5},
+      {"name": "Iraq", "size": 15},
+      {"name": "Israel, West Bank, Gaza", "size": 12},
+      {"name": "Lebanon", "size": 5},
+      {"name": "Tunisia", "size":1},
+      {"name": "Yemen", "size":6}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2009",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 4},
+      {"name": "Egypt", "size": 3},
+      {"name": "Iraq", "size": 3},
+      {"name": "Israel, West Bank, Gaza", "size": 27},
+      {"name": "Saudi Arabia", "size":1},
+      {"name": "Yemen", "size":3}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2010",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 3},
+      {"name": "Iraq", "size": 11},
+      {"name": "Israel, West Bank, Gaza", "size": 3},
+      {"name": "Palestinian Territories", "size": 4},
+      {"name": "Jordan", "size":3},
+      {"name": "United Arab Emirates", "size":1},
+      {"name": "Yemen", "size":8}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2011",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Algeria", "size": 5},
+      {"name": "Bahrain", "size": 1},
+      {"name": "Iraq", "size": 14},
+      {"name": "Israel, West Bank, Gaza", "size": 7},
+      {"name": "Lebanon", "size":7},
+      {"name": "Morocco", "size":1},
+      {"name": "Yemen", "size":16}
+     ]
+    }
+    ]
+  },
+  {
+   "name": "2012",
+   "attacks": [
+    {
+     "name": "country",
+     "attacks": [
+      {"name": "Bahrain", "size": 6},
+      {"name": "Iraq", "size": 9},
+      {"name": "Lebanon", "size": 6},
+      {"name": "Saudi Arabia", "size": 1},
+      {"name": "Yemen", "size":23}
+     ]
+    }
+    ]
+  }
+ ]
+}
