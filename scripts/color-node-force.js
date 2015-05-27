@@ -4,7 +4,7 @@ function group(d) { return d.group; }
 var color = d3.scale.category10();
 function colorByGroup(d) { return color(group(d)); }
 
-var width = 960,
+var width = 560,
     height = 500;
 
 var svg = d3.select('#viz')
@@ -61,7 +61,7 @@ force.on('tick', function() {
         .attr('d', function(d) { return 'M'+d.join(',')+'Z'; });
 });
 
-d3.json('color-node-force.json', function(err, data) {
+d3.json('../data/attacks/color-node-force.json', function(err, data) {
 
     data.nodes.forEach(function(d, i) {
         d.id = i;
