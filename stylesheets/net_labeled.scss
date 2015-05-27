@@ -1,8 +1,10 @@
+@import "reset";
+
 .link {
   stroke: #ccc;
 }
 
-.node text {
+.node .text {
   pointer-events: none;
   font: 10px sans-serif;
 }
