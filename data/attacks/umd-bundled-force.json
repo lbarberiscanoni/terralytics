@@ -21,7 +21,7 @@
     {"name":"Mali","group":1},
     {"name":"Morocco","group":1},
     {"name":"Sudan","group":1},
-    {"name":"Tunisia","group":1}
+    {"name":"Tunisia","group":1},
    
    ],
   "links":[
@@ -179,7 +179,7 @@
     {"source":10,"target":17,"value":58},
     {"source":10,"target":18,"value":14},
     {"source":10,"target":20,"value":40},
-    {"source":10,"target":21,"value":1}
+    {"source":10,"target":21,"value":1},
 
   ]
 }

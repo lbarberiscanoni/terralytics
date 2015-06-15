@@ -16,9 +16,8 @@
     {"name":"Libya","group":1},
     {"name":"Mali","group":1},
     {"name":"Morocco","group":1},
-    {"name":"Tunisia","group":1}
+    {"name":"Tunisia","group":1},
     {"name":"Palestinian Territories","group":1}
-   
    ],
   "links":[
     {"source":0,"target":3,"value":42},
@@ -84,8 +83,6 @@
     {"source":10,"target":10,"value":3},
     {"source":10,"target":11,"value":24},
     {"source":10,"target":12,"value":2}
-
-    
   ]
 }
 
