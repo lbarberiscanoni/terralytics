@@ -1,5 +1,7 @@
 {
   "nodes":[
+    {"name":"Bahrain","group":1},
+    {"name":"Cyprus","group":1},
     {"name":"Egypt","group":1},
     {"name":"Iran","group":1},
     {"name":"Iraq","group":1},
